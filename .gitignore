@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.env
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Docker
+*.log
+docker-compose.override.yml
+
+# Byte-compiled / temp / backup
+*.bak
+*.swp
+*.tmp
